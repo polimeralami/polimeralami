@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a computer science student with a keen interest in network systems, mobile application development, and a hobbyist artist✨
+
 <!--
 **polimeralami/polimeralami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
